@@ -44,7 +44,7 @@ Add user authentication and dynamic course content
 
 
 **🔗 Live Demo**
-[Add your GitHub Pages or live deployment link here]
+https://narendk.github.io/Udemy_Clone_Project/
 
 
 **📬 Contact**
